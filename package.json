@@ -1,0 +1,22 @@
+{
+  "name": "marp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hijiki51/marp.git"
+  },
+  "author": "hijiki51",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hijiki51/marp/issues"
+  },
+  "homepage": "https://github.com/hijiki51/marp#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^1.4.1"
+  }
+}
