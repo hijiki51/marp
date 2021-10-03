@@ -55,9 +55,9 @@ marp: true
 
 ---
 
-![bg right](images/before.png)
+![bg ](images/before.png)
 
-![bg left](images/after.png)
+![bg ](images/after.png)
 
 ---
 
