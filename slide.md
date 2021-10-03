@@ -18,7 +18,7 @@ marp: true
 - 独自のランタイムを持つため、解析が正常に行われない
 
 --- 
-# TODO: image
+![bg center ](images/before.png)
 
 ---
 
@@ -55,8 +55,9 @@ marp: true
 
 ---
 
-# TODO:image
+![bg right](images/before.png)
 
+![bg left](images/after.png)
 
 ---
 
