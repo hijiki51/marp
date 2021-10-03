@@ -4,6 +4,10 @@ marp: true
 
 <!-- class: invert -->
 
+
+![bg ](images/top.png)
+
+---
 # Enhance assistance for reversing Go 
 ## @hijiki51
 
